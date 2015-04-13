@@ -1,0 +1,3 @@
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It gives an area where you can organize what you are going to commit to your repository
